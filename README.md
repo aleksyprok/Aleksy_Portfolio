@@ -8,13 +8,9 @@
 5. [Teaching](#teaching)
 7. [Contact and social media](#contact)
 
-## collapsible markdown?
-
 <details>
-<summary>
-# CLICK ME
-</summary>
 <p>
+## collapsible markdown?
 
 </p>
 </details>

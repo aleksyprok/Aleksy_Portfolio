@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 1. [About me](#about_me)
 2. [Recent projects](#recent_projects)
     * [Project 1: Leapfrog code](#project1)
@@ -28,7 +28,7 @@ My research interests include:
 * [Prokopyszyn, A. P. K. and A. W. Hood (2019, December). Investigating the damping rate of phase-mixed Alfvén waves. Astronomy & Astrophysics 632, A93.](https://www.aanda.org/articles/aa/abs/2019/12/aa36658-19/aa36658-19.html)
 * [Prokopyszyn, A. P. K., A. W. Hood, and I. De Moortel (2019, April). Phase mixing of nonlinear Alfvén waves. Astronomy & Astrophysics 624, A90.](https://www.aanda.org/articles/aa/abs/2019/04/aa34939-18/aa34939-18.html)
 
-# Conferences ans Seminars <a name="conferences"></a>
+# Conferences and seminars <a name="conferences"></a>
 
 * June/July 30-4, 2019 - National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/NAM_poster_2019.pdf)
 * June 10-14, 2019 - Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/LOOPS_talk_2019.pdf)
@@ -42,7 +42,7 @@ My research interests include:
 * December 11-15, 2017 - Computational MHD workshop, Leeds.
 * September 5, 2016 -  SUPA Cormack Astronomy Meeting, Edinburgh, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/cormack_meeting_poster_2017.pdf)
 
-# Contact and Social Media<a name="contact"></a>
+# Contact and social media<a name="contact"></a>
 
 If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.
 Here are links to my LinkedIn, Stack Exchange, GitHub and Google Scholar accounts.

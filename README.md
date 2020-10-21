@@ -8,18 +8,12 @@
 5. [Teaching](#teaching)
 7. [Contact and social media](#contact)
 
-<div id="section1">
-  <h1>Section 1</h1>
-  <p>Section 1 content</p>
-  <div id="section1-1">
-    <h2>Section1-1</h2>
-    <p>section 1-1 content</p>
-  </div>
-    <div id="section1-2">
-    <h2>Section1-2</h2>
-    <p>section 1-2 content</p>
-  </div>
-</div>
+<h1>Section 1</h1>
+<p>Section 1 content</p>
+<h2>Section1-1</h2>
+<p>section 1-1 content</p>
+<h2>Section1-2</h2>
+<p>section 1-2 content</p>
 
 # About me <a name="about_me"></a>
 

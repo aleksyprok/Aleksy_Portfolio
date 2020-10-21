@@ -14,7 +14,8 @@
 
 My research interests include:
 * Coronal MHD waves, where the corona refers to the outer layer of the solar atmosphere, see Figure X.
-* Coronal seismology. This is a process where hard to measure quantities such as the magnetic field strength and the plasma density can be inferred from easier to measure quantities 
+* Coronal seismology. This is a process where hard to measure quantities such as the magnetic field strength and the plasma density can be inferred from easier to measure quantities using MHD wave theory.
+* The coronal heating problem. This problem relates to the question; "Why does the corona have a temperature of 10<sup>6</sup>"&thinsp;K
 
 # Contact and Social Media<a name="contact"></a>
 

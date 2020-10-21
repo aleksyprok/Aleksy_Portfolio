@@ -1,2 +1,3 @@
-# aleksy_prok_portfolio
-A GitHub pages for my academic portfolio.
+# About me
+
+**Hi, I'm Alex Prokopyszyn. A solar physicist. I use computer simulations to model magntohydrodynamic (MHD) waves in the solar atmosphere.**

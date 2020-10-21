@@ -30,6 +30,7 @@ My research interests include:
 
 # Conferences and seminars <a name="conferences"></a>
 
+* April 20, 2020 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_2020_seminar.pdf)
 * June/July 30-4, 2019 - National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/NAM_poster_2019.pdf)
 * June 10-14, 2019 - Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/LOOPS_talk_2019.pdf)
 * April 14, 2019 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_2019_seminar.pdf)

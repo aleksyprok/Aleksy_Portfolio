@@ -30,15 +30,16 @@ My research interests include:
 
 # Conferences ans Seminars <a name="conferences"></a>
 
-* June/July 30-4, 2019 – National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/NAM_poster_2019.pdf)
-* June 10-14, 2019 – Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/LOOPS_talk_2019.pdf)
-* September 9-14, 2018 – STFC Advanced summer school, Southampton.
-* September 3-7, 2018 – BUKS Waves in the solar atmosphere, Tenerife, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/buks_talk_2018.pdf)
-* June 11-15, 2018 – Advanced topics in MHD, Udine, Italy.
+* June/July 30-4, 2019 - National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/NAM_poster_2019.pdf)
+* June 10-14, 2019 - Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/LOOPS_talk_2019.pdf)
+* April 14, 2019 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_2019_seminar.pdf)
+* September 9-14, 2018 - STFC Advanced summer school, Southampton.
+* September 3-7, 2018 - BUKS Waves in the solar atmosphere, Tenerife, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/buks_talk_2018.pdf)
+* June 11-15, 2018 - Advanced topics in MHD, Udine, Italy.
 * June 6, 2018 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_seminar_2018.pdf)
-* March 26-27, 2018 – UKMHD, St Andrews.
-* January 2018 – RAS specialist discussion meeting, London.
-* December 11-15, 2017 – Computational MHD workshop, Leeds.
+* March 26-27, 2018 - UKMHD, St Andrews.
+* January 2018 - RAS specialist discussion meeting, London.
+* December 11-15, 2017 - Computational MHD workshop, Leeds.
 * September 5, 2016 -  SUPA Cormack Astronomy Meeting, Edinburgh, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/cormack_meeting_poster_2017.pdf)
 
 # Contact and Social Media<a name="contact"></a>

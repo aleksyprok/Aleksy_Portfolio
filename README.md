@@ -24,6 +24,13 @@ My research interests include:
 
 # Publications <a name="publications"></a>
 
+* Prokopyszyn AP, Hood AW, Wright AN. Resonant absorption in a tilted magnetic field (in preparation) 
+* Prokopyszyn AP, Hood AW. Investigating the damping rate of phase-mixed Alfvén waves. Astronomy & Astrophysics. 2019 Dec 1;632:A93. 
+
+ 
+
+Prokopyszyn AP, Hood AW, De Moortel I. Phase mixing of nonlinear Alfvén waves. Astronomy & Astrophysics. 2019 Apr 1;624:A90. 
+
 # Contact and Social Media<a name="contact"></a>
 
 If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.

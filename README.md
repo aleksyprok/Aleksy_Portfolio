@@ -13,7 +13,7 @@
 **Hi, I'm Aleksy Prokopyszyn. A solar physicist. I use computer simulations to model magntohydrodynamic (MHD) waves in the solar atmosphere.** I am a PhD student working with the [Solar and Magnetospheric Theory Group](http://www-solar.mcs.st-and.ac.uk/) in the [School of Mathematics and Statistics](https://www.st-andrews.ac.uk/mathematics-statistics/) at the [University of St Andrews](https://www.st-andrews.ac.uk/), Scotland. 
 
 My research interests include:
-* Coronal MHD waves, where the corona refers to the outer layer of the solar atmosphere, see Figure X.
+* Coronal [MHD waves](https://en.wikipedia.org/wiki/Magnetohydrodynamics#Waves), where the corona refers to the outer layer of the solar atmosphere, see Figure X.
 * [Coronal seismology](https://en.wikipedia.org/wiki/Coronal_seismology). This is a process where hard to measure quantities such as the magnetic field strength and the plasma density can be inferred from easier to measure quantities using MHD wave theory.
 * [Coronal heating problem](https://en.wikipedia.org/wiki/Stellar_corona#Coronal_heating_problem). This problem relates to the question; "Why does the corona have a temperature of 10<sup>6</sup>&thinsp;K while the photosphere which is closer to the centre of the Sun has a temperture of about 6000&thinsp;K?"
 * Designing code to solve the MHD equations using finite difference, finite volume and spectral method techniques.

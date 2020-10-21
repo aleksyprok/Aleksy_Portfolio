@@ -9,7 +9,7 @@
 7. [Contact and social media](#contact)
 
 <details>
-  <summary>Your header here! (Click to expand)</summary>
+  <summary>**Your header here!**</summary>
   Your content here...
   > markup like blockquote's should even work on github!
   more content here...

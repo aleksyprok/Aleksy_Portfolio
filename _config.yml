@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Aleksy Prokopyszyn's Portfolio
-description: This website was made using GitHub pages. The code can be accessed via the link below.
+description: 
+github:
+  is_project_page: false

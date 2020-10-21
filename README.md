@@ -30,7 +30,7 @@ My research interests include:
 
 # Conferences <a name="conferences"></a>
 
-* June/July 30-4, 2019 – National astronomy meeting, Lancaster, [presented poster.]()
+* June/July 30-4, 2019 – National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/NAM_poster_2019.pdf)
 * June 10-14, 2019 – Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/LOOPS_talk_2019.pdf)
 * September 9-14, 2018 – STFC Advanced summer school, Southampton.
 * September 3-7, 2018 – BUKS Waves in the solar atmosphere, Tenerife, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/buks_talk_2018.pdf)

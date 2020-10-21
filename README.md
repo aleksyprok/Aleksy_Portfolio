@@ -1,5 +1,5 @@
 # Table of Contents
-1. [About me]
+1. [About me](#about_me)
 
 # About me
 

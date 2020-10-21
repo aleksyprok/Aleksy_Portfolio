@@ -6,7 +6,7 @@
 5. [Education](#education)
 6. [Teaching](#teaching)
 7. [Recent work](#recent_work)
-    * [Leapfrog code](#project1)
+    * [Project 1: Leapfrog code](#project1)
 
 # About me <a name="about_me"></a>
 

@@ -28,13 +28,14 @@ My research interests include:
 * [Prokopyszyn, A. P. K. and A. W. Hood (2019, December). Investigating the damping rate of phase-mixed Alfvén waves. Astronomy & Astrophysics 632, A93.](https://www.aanda.org/articles/aa/abs/2019/12/aa36658-19/aa36658-19.html)
 * [Prokopyszyn, A. P. K., A. W. Hood, and I. De Moortel (2019, April). Phase mixing of nonlinear Alfvén waves. Astronomy & Astrophysics 624, A90.](https://www.aanda.org/articles/aa/abs/2019/04/aa34939-18/aa34939-18.html)
 
-# Conferences <a name="conferences"></a>
+# Conferences ans Seminars <a name="conferences"></a>
 
 * June/July 30-4, 2019 – National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/NAM_poster_2019.pdf)
 * June 10-14, 2019 – Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/LOOPS_talk_2019.pdf)
 * September 9-14, 2018 – STFC Advanced summer school, Southampton.
 * September 3-7, 2018 – BUKS Waves in the solar atmosphere, Tenerife, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/buks_talk_2018.pdf)
 * June 11-15, 2018 – Advanced topics in MHD, Udine, Italy.
+* June 6, 2018 - SMTG seminar series, St Andrews, [annual seminar.]()
 * March 26-27, 2018 – UKMHD, St Andrews.
 * January 2018 – RAS specialist discussion meeting, London.
 * December 11-15, 2017 – Computational MHD workshop, Leeds.

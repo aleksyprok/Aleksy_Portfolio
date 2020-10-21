@@ -38,7 +38,7 @@ My research interests include:
 * March 26-27, 2018 – UKMHD, St Andrews 
 * January 2018 – RAS specialist discussion meeting, London 
 * December 11-15, 2017 – Computational MHD workshop, Leeds
-* September 5, 2016 -  SUPA Cormack Astronomy Meeting, Edinburgh, [presented poster](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/Poster.pdf)
+* September 5, 2016 -  SUPA Cormack Astronomy Meeting, Edinburgh, [presented poster](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/cormack_meeting_poster_2017.pdf)
 
 # Contact and Social Media<a name="contact"></a>
 

@@ -1,5 +1,6 @@
 # Table of Contents
 1. [About me](#about_me)
+2. [Contact and social media](#contact)
 
 # About me <a name="about_me"></a>
 
@@ -7,7 +8,7 @@
 
 My research interests include:
 
-# Contact and Social Media<a name="about_me"></a>
+# Contact and Social Media<a name="contact"></a>
 
 If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.
 Here are links to my LinkedIn, Stack Exchange, GitHub and Google Scholar accounts.

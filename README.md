@@ -2,10 +2,10 @@
 1. [About me](#about_me)
 2. [Recent projects](#recent_projects)
     * [Project 1: Leapfrog code](#project1)
-2. [Publications](#publications)
-3. [Conferences](#conferences)
-4. [Education](#education)
+3. [Publications](#publications)
+4. [Conferences](#conferences)
 5. [Teaching](#teaching)
+6. [Education](#education)
 7. [Contact and social media](#contact)
 
 # About me <a name="about_me"></a>

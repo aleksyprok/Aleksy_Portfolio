@@ -8,12 +8,12 @@
 5. [Teaching](#teaching)
 7. [Contact and social media](#contact)
 
-<h1>Section 1</h1>
-<p>Section 1 content</p>
-<h2>Section1-1</h2>
-<p>section 1-1 content</p>
-<h2>Section1-2</h2>
-<p>section 1-2 content</p>
+<details>
+  <summary>Your header here! (Click to expand)</summary>
+  Your content here...
+  > markup like blockquote's should even work on github!
+  more content here...
+</details>
 
 # About me <a name="about_me"></a>
 

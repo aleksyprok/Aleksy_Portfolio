@@ -9,5 +9,5 @@ My research interests include:
 
 # Contact and Social Media<a name="about_me"></a>
 
-If you have any questions or suggestions, please feel free to email me at [aleksyprok@gmail.com](aleksyprok@gmail.com).
+If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.
 Here are links to my LinkedIn, Stack Exchange, GitHub and Google Scholar accounts.

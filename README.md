@@ -22,6 +22,8 @@ My research interests include:
 
 ## Project 1: Leapfrog code <a name="project1"></a>
 
+# Publications <a name="publications"></a>
+
 # Contact and Social Media<a name="contact"></a>
 
 If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.

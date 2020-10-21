@@ -35,7 +35,7 @@ My research interests include:
 * September 9-14, 2018 – STFC Advanced summer school, Southampton.
 * September 3-7, 2018 – BUKS Waves in the solar atmosphere, Tenerife, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/buks_talk_2018.pdf)
 * June 11-15, 2018 – Advanced topics in MHD, Udine, Italy.
-* June 6, 2018 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_2018_seminar.pdf)
+* June 6, 2018 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_seminar_2018.pdf)
 * March 26-27, 2018 – UKMHD, St Andrews.
 * January 2018 – RAS specialist discussion meeting, London.
 * December 11-15, 2017 – Computational MHD workshop, Leeds.

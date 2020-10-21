@@ -1,12 +1,12 @@
 # Table of Contents
 1. [About me](#about_me)
 2. [Contact and social media](#contact)
-3. [Publications]
-4. [Conferences]
-5. [Education]
-6. [Teaching]
-7. [Recent work]
-    1. [Sub paragraph](#subparagraph1)
+3. [Publications](#publications)
+4. [Conferences](#conferences)
+5. [Education](#education)
+6. [Teaching](#teaching)
+7. [Recent work](#recent_work)
+    1. [Leapfrog code](#project1)
 
 # About me <a name="about_me"></a>
 

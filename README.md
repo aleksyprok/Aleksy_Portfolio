@@ -19,7 +19,7 @@ My research interests include:
 * Designing code to solve the MHD equations using [finite difference](https://en.wikipedia.org/wiki/Finite_difference), [finite volume](https://en.wikipedia.org/wiki/Finite_volume_method), [spectral method](https://en.wikipedia.org/wiki/Spectral_method) and [method of lines](https://en.wikipedia.org/wiki/Method_of_lines) techniques.
 
 <figure class="image">
-  <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="200">
+  <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="1000">
   <figcaption> Fig. 1 This image shows the corona. </figcaption>
 </figure>
 

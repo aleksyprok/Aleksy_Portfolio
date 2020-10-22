@@ -47,8 +47,8 @@ My research interests include:
 
 Each semester of my PhD I have assisted with the teaching in the maths department at St Andrews. My teaching has mainly involved teaching computer workshops. This is where the students are given computer assignments to work on, e.g. create a program to output the first n pythagorean triples. My job is to answer questions and deal with any computer related issues the student have. I also taught tutorial classes and this is where I go through a problem sheet with a class of 10 students. I have really enjoyed this aspect of my PhD, particularly the computer classes as I enjoy helping students on a 1:1 basis. The classes I have taught are:
 
-| Date | Module name | Descirption |
-|----------|:-------------:|------:|
+|   Date   |  Module name  | Descirption |
+|----------|:-------------:|------------:|
 | September-December 2017 | Computing in mathematics | I helped teach students how to use [Fortran 90](https://en.wikipedia.org/wiki/Fortran#Fortran_90) in a computer class. |
 | January-April 2018 | Vector calculus | I taught a tutorial class vector caculus by going through weekly problem sheets. |
 | September-December 2018 | Multivariate calculus | I helped teach students how to use Python 3 in a computer class. |

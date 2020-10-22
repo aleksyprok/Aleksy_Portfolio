@@ -49,17 +49,15 @@ Each semester of my PhD I have assisted with the teaching in the maths departmen
 
 <details>
 <summary>The classes I have taught are given  here:</summary>
-
-| Date                    | Module name                  | Descirption|
-|:-----------------------:|:----------------------------:|:------------:|
-| September-December 2017 | Computing in mathematics     | I helped teach students how to use [Fortran 90](https://en.wikipedia.org/wiki/Fortran#Fortran_90) in a computer class. |
-| January-April 2018      | Vector calculus              | I taught a tutorial class vector caculus by disucussing weekly problem sheets. |
-| September-December 2018 | Multivariate calculus        | I helped teach students how to use Python 3 in a computer class. |
-| January-April 2019      | Introductory mathematics     | I helped teach students how to use Maple in a computer class. |
-| January-April 2019      | Mathematical modelling       | I helped teach students how to use Python in a computer class. |
-| September-December 2019 | Computing in mathematics     | I helped teach students how to use [Fortran 90](https://en.wikipedia.org/wiki/Fortran#Fortran_90) in a computer class. |
-| January-April 2020      | Pure and applied mathematics | I helped teach students how to use Maple in a computer class. |
-| September-December 2018 | Multivariate calculus        | I helped teach students how to use Python 3 in a computer class. |
+   
+* September-December 2017, Computing in mathematics, Fortran 90 computer class
+* January-April 2018, Vector calculus, tutorial class
+* September-December 2018, Multivariate calculus, Python computer class
+* January-April 2019, Mathematics, Maple computer class
+* January-April 2019, Mathematical modelling, Python computer class
+* September-December 2019, Computing in mathematics, Fortran 90 computer class
+* January-April 2020, Pure and applied mathematics, Maple computer class
+* September-December 2018, Multivariate calculus, Python computer class
 
 </details>
 

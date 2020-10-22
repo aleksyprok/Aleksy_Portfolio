@@ -20,7 +20,7 @@ My research interests include:
 
 <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="500">   | blank
 :-------------------------:|:-------------------------:
-**Fig. 1** This photo was taken from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/Solar_eclipse_1999_4_NR.jpg). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The white glow is coming from the corona due to the corona Thompson scattering white light from the photopshere. |  **Fig. 2** A a picture of me studying the Sun. This is only safe to do so in Scotland.
+**Fig. 1** This photo was taken from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/Solar_eclipse_1999_4_NR.jpg). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The white glow is coming from whitee light from the photosphere which has been Thompson scattered by the corona. |  **Fig. 2** A a picture of me studying the Sun. This is only safe to do so in Scotland.
 
 # Recent projects <a name="recent_projects"></a>
 

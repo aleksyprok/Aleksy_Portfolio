@@ -57,6 +57,29 @@ The classes I have taught are:
 * January-April 2020, Pure and applied mathematics, Maple computer class
 * September-December 2018, Multivariate calculus, Python computer class
 
+# Education <a name="education"></a>
+
+Unviversity of St Andrews, BSc Mathematics
+September 2014 - May 2017
+
+* Awarded First Class with a grade point average (GPA) of 18.5/20 (a minimum of grade 16 is required for a first)
+* Honours Modules with grades: Complex Analysis 18.1, Computing in Mathematics 17.5, Differential Equations 19.3, Linear Mathematics 18.7, Dynamical Systems 17.8, Fractal Geometry 17.2, Solar Theory 19.3, Techniques of Applied Mathematics 18.4, Advanced Solar Theory 17.2, Asymptotic Methods 19.8, Linear and Nonlinear Waves 19.6, Numerical Analysis 17.8, Classical Mechanics 19, Fluid Dynamics 17.5, Theory of Electric and Magnetic Fields 19.3, Final year dissertation 19.8 
+* Awards:
+   * May 2017 – Duncan Prize (Applied Mathematics Senior Honours) for scoring the highest in fourth year applied modules
+
+   * May 2017 – Duncan Prize and Medal for the best final year Maths BSc dissertation
+
+   * May 2017 – Fourth level BSc Mathematics medal for the highest scoring fourth year BSc maths student
+
+   * May 2016 – Awarded a Cormack scholarship for summer research project
+
+   * May 2016 – Third Level BSc Mathematics medal for the highest scoring third year BSc Maths student
+ 
+   * May 2015, 2016 & 2017 – Dean’s List award for students who average above 16.5/20 in all modules across the academic year
+
+   * May 2014 – Ogden Trust physicist of the year, awarded to students in Nottinghamshire by the Ogden committee based on teacher recommendations
+
+
 # Contact and social media<a name="contact"></a>
 
 If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.

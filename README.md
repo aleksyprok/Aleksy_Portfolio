@@ -22,6 +22,10 @@ My research interests include:
 :-------------------------:|:-------------------------:
 **Fig. 1** This photo was taken from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/Solar_eclipse_1999_4_NR.jpg). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona Thompson scatters light it recieves from the photopshere. |  **Fig. 2** A a picture of me studying the Sun. This is only safe to do so in Scotland. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
+<img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="200">   | <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/aleksy_prok.jpg" alt="aleksy_prok" width="200">
+:-------------------------:|:-------------------------:
+&nbsp; | &nbsp;
+
 # Recent projects <a name="recent_projects"></a>
 
 ## Project 1: Leapfrog code <a name="project1"></a>

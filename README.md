@@ -20,7 +20,7 @@ My research interests include:
 
 <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="200">   |  <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="200">
 :-------------------------:|:-------------------------:
-Hi  |  Bye
+**Fig. 1** This photo was taken from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/Solar_eclipse_1999_4_NR.jpg). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The white glow is coming from the corona due to the corona Thompson scattering white light from the photopshere. |  Bye
 
 # Recent projects <a name="recent_projects"></a>
 

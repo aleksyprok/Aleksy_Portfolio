@@ -93,6 +93,9 @@ September 2007 – May 2014
 
 *	AS-level: A Further Mathematics, A Geology
 
+* Awards:
+   * May 2014 – Ogden Trust physicist of the year, awarded to students in Nottinghamshire by the Ogden committee based on teacher recommendations
+
 
 # Contact and social media<a name="contact"></a>
 

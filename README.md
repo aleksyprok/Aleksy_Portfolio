@@ -49,7 +49,6 @@ Each semester of my PhD I have assisted with the teaching in the maths departmen
 
 <details>
 <summary>The classes I have taught are given  here:</summary>
-   
 * September-December 2017, Computing in mathematics, Fortran 90 computer class
 * January-April 2018, Vector calculus, tutorial class
 * September-December 2018, Multivariate calculus, Python computer class
@@ -58,7 +57,6 @@ Each semester of my PhD I have assisted with the teaching in the maths departmen
 * September-December 2019, Computing in mathematics, Fortran 90 computer class
 * January-April 2020, Pure and applied mathematics, Maple computer class
 * September-December 2018, Multivariate calculus, Python computer class
-
 </details>
 
 # Contact and social media<a name="contact"></a>

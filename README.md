@@ -43,6 +43,18 @@ My research interests include:
 * December 11-15, 2017 - Computational MHD workshop, Leeds.
 * September 5, 2016 -  SUPA Cormack Astronomy Meeting, Edinburgh, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/cormack_meeting_poster_2017.pdf)
 
+# Teaching
+
+Each semester of my PhD I have assisted with the teaching in the maths department at St Andrews. My teaching has mainly involved teaching computer workshops. This is where the students are given computer assignments to work on, e.g. create a program to output the first n pythagorean triples. My job is to answer questions and deal with any computer related issues the student have. I also taught tutorial classes and this is where I go through a problem sheet with a class of 10 students. I have really enjoyed this aspect of my PhD, particularly the computer classes as I enjoy helping students on a 1:1 basis. The classes I have taught are:
+
+* September-December 2017, Computing in Mathematics, 
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 # Contact and social media<a name="contact"></a>
 
 If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.

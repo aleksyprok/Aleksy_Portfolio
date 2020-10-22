@@ -98,9 +98,7 @@ George Spencer Academy, Nottingham \
 September 2007 – May 2014
  
 *	A-level: A* Mathematics, A Physics, A Chemistry
-
 *	AS-level: A Further Mathematics, A Geology
-
 * May 2014 – Ogden Trust physicist of the year, awarded to students in Nottinghamshire by the Ogden committee based on teacher recommendations
 
 

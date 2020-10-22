@@ -20,6 +20,11 @@ My research interests include:
 
 <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="200"/>
 
+<figure class="image">
+  <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="200">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
+
 # Recent projects <a name="recent_projects"></a>
 
 ## Project 1: Leapfrog code <a name="project1"></a>

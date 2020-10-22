@@ -49,7 +49,7 @@ Each semester of my PhD I have assisted with the teaching in the maths departmen
 
 * September-December 2017, Computing in Mathematics, 
 
-| Tables   |      Are      |  Cool |
+| Date   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |

@@ -50,7 +50,6 @@ Each semester of my PhD I have assisted with the teaching in the maths departmen
 <details>
 <summary>The classes I have taught are given  here:</summary>
    
-   
 * September-December 2017, Computing in mathematics, Fortran 90 computer class
 * January-April 2018, Vector calculus, tutorial class
 * September-December 2018, Multivariate calculus, Python computer class

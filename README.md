@@ -59,6 +59,8 @@ The classes I have taught are:
 
 # Education <a name="education"></a>
 
+## University
+
 Unviversity of St Andrews, BSc Mathematics \
 September 2014 - May 2017
 * Awarded First Class with a grade point average (GPA) of 18.5/20 (a minimum of grade 16 is required for a first)
@@ -86,6 +88,8 @@ September 2014 - May 2017
    * May 2016 – Third Level BSc Mathematics medal for the highest scoring third year BSc Maths student.
    * May 2015, 2016 & 2017 – Dean’s List award for students who average above 16.5/20 in all modules across the academic year.
    
+## High school
+
 George Spencer Academy, Nottingham \
 September 2007 – May 2014
  

@@ -18,7 +18,7 @@ My research interests include:
 * [Coronal heating problem](https://en.wikipedia.org/wiki/Stellar_corona#Coronal_heating_problem). This problem relates to the question; "Why does the corona have a temperature of 10<sup>6</sup>&thinsp;K while the photosphere, which is closer to the centre of the Sun has a temperature of about 6000&thinsp;K?"
 * Designing code to solve the MHD equations using [finite difference](https://en.wikipedia.org/wiki/Finite_difference), [finite volume](https://en.wikipedia.org/wiki/Finite_volume_method), [spectral method](https://en.wikipedia.org/wiki/Spectral_method) and [method of lines](https://en.wikipedia.org/wiki/Method_of_lines) techniques.
 
-<img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/eclipse_1999.png" alt="eclipse_1999" width="500">   | <img src="https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/aleksy_prok.jpg" alt="aleksy_prok" width="500">
+<img src="https://aleksyprok.github.io/images/eclipse_1999.png" alt="eclipse_1999" width="500">   | <img src="https://aleksyprok.github.io/images/aleksy_prok.jpg" alt="aleksy_prok" width="500">
 :-------------------------|:-------------------------
 **Fig. 1** This photo was taken from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/Solar_eclipse_1999_4_NR.jpg). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona Thompson scatters white light it recieves from the photopshere. |  **Fig. 2** Picture of me at the St Andrew's pier. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
@@ -30,18 +30,18 @@ My research interests include:
 
 # Conferences and seminars <a name="conferences"></a>
 
-* April 20, 2020 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_2020_seminar.pdf)
-* June/July 30-4, 2019 - National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/NAM_poster_2019.pdf)
-* June 10-14, 2019 - Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/LOOPS_talk_2019.pdf)
-* April 14, 2019 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_2019_seminar.pdf)
+* April 20, 2020 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2020_seminar.pdf)
+* June/July 30-4, 2019 - National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/images/NAM_poster_2019.pdf)
+* June 10-14, 2019 - Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/images/LOOPS_talk_2019.pdf)
+* April 14, 2019 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2019_seminar.pdf)
 * September 9-14, 2018 - STFC Advanced summer school, Southampton.
-* September 3-7, 2018 - BUKS Waves in the solar atmosphere, Tenerife, [contributed talk.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/buks_talk_2018.pdf)
+* September 3-7, 2018 - BUKS Waves in the solar atmosphere, Tenerife, [contributed talk.](https://aleksyprok.github.io/images/buks_talk_2018.pdf)
 * June 11-15, 2018 - Advanced topics in MHD, Udine, Italy.
-* June 6, 2018 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/smtg_seminar_2018.pdf)
+* June 6, 2018 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_seminar_2018.pdf)
 * March 26-27, 2018 - UKMHD, St Andrews.
 * January 2018 - RAS specialist discussion meeting, London.
 * December 11-15, 2017 - Computational MHD workshop, Leeds.
-* September 5, 2016 -  SUPA Cormack Astronomy Meeting, Edinburgh, [presented poster.](https://aleksyprok.github.io/Aleksy_Prokopyszyn_Portfolio/images/cormack_meeting_poster_2017.pdf)
+* September 5, 2016 -  SUPA Cormack Astronomy Meeting, Edinburgh, [presented poster.](https://aleksyprok.github.io/images/cormack_meeting_poster_2017.pdf)
 
 # Teaching <a name="teaching"></a>
 

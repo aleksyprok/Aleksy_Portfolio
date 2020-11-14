@@ -64,8 +64,8 @@ The classes I have taught are:
 Unviversity of St Andrews, BSc Mathematics \
 September 2014 - May 2017
 * Awarded First Class with a grade point average (GPA) of 18.5/20 (a minimum of grade 16 is required for a first)
-* Honours Modules with grades: 
-   * Complex Analysis 18.1 
+* Honours Modules with grades (out of 20): 
+   * Complex Analysis 18.1
    * Computing in Mathematics 17.5 
    * Differential Equations 19.3
    * Linear Mathematics 18.7

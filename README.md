@@ -53,7 +53,7 @@ The classes I have taught are:
 * January-April 2019, Mathematical modelling, Python computer class
 * September-December 2019, Computing in mathematics, Fortran 90 computer class
 * January-April 2020, Pure and applied mathematics, Maple computer class
-* September-December 2018, Multivariate calculus, Python computer class
+* September-December 2020, Multivariate calculus, Python computer class
 
 # Education <a name="education"></a>
 

@@ -87,16 +87,6 @@ September 2014 - May 2017
    * May 2016 – Awarded a Cormack scholarship for summer research project.
    * May 2016 – Third Level BSc Mathematics medal for the highest scoring third year BSc Maths student.
    * May 2015, 2016 & 2017 – Dean’s List award for students who average above 16.5/20 in all modules across the academic year.
-   
-## High school
-
-George Spencer Academy, Nottingham \
-September 2007 – May 2014
- 
-*	A-level: A* Mathematics, A Physics, A Chemistry
-*	AS-level: A Further Mathematics, A Geology
-* May 2014 – Ogden Trust physicist of the year, awarded to students in Nottinghamshire by the Ogden committee based on teacher recommendations
-
 
 # Contact and social media<a name="contact"></a>
 

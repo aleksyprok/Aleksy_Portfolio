@@ -91,4 +91,4 @@ September 2014 - May 2017
 # Contact and social media<a name="contact"></a>
 
 If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.
-Here are links to my LinkedIn, Stack Exchange, GitHub and Google Scholar accounts.
+Here are links to my [LinkedIn](https://www.linkedin.com/in/alexander-prokopyszyn-25a450b3/), [Stack Exchange](https://stackexchange.com/users/12604491/peanutlex), [GitHub](https://github.com/aleksyprok) and Google Scholar accounts.

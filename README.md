@@ -39,6 +39,7 @@ My research interests include:
 * March 26-27, 2018 - UKMHD, St Andrews.
 * January 2018 - RAS specialist discussion meeting, London.
 * December 11-15, 2017 - Computational MHD workshop, Leeds.
+* September 10-15, 2017 - STFC Introductory summer school, Newcastle.
 * September 5, 2016 -  SUPA Cormack Astronomy Meeting, Edinburgh, [presented poster.](https://aleksyprok.github.io/images/cormack_meeting_poster_2017.pdf)
 
 # Teaching <a name="teaching"></a>

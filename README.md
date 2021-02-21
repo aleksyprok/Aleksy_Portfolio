@@ -18,7 +18,7 @@ My research interests include:
 
 <img src="https://aleksyprok.github.io/images/eclipse_1999.png" alt="eclipse_1999" width="500">   | <img src="https://aleksyprok.github.io/images/aleksy_prok.jpg" alt="aleksy_prok" width="500">
 :-------------------------|:-------------------------
-**Fig. 1** This photo was taken from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/Solar_eclipse_1999_4_NR.jpg). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona Thompson scatters white light it recieves from the photopshere. |  **Fig. 2** Picture of me at the St Andrew's pier. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+**Fig. 1** This photo was taken from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/Solar_eclipse_1999_4_NR.jpg). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona Thompson scatters the white light it receives from the photosphere. |  **Fig. 2** Picture of me at the St Andrew's pier. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 # Publications <a name="publications"></a>
 
@@ -44,7 +44,7 @@ My research interests include:
 
 # Teaching <a name="teaching"></a>
 
-Each semester of my PhD I have assisted with the teaching in the maths department at St Andrews. My teaching has mainly involved teaching computer workshops. This is where the students are given computer assignments to work on, e.g. create a program to output the first n pythagorean triples. My job is to answer questions and deal with any computer related issues the student have. I have also taught tutorial classes and this is where we discuss a problem sheet with a class of 10 students.
+Each semester of my PhD, I have assisted with the teaching in the maths department at St Andrews. My teaching has mainly involved supervising computer workshops. This is where the students are given computer assignments to work on, e.g. create a program to output the first n Pythagorean triples. My job is to answer questions and deal with any computer-related issues the student have. I have also taught tutorial classes, and this is where we discuss a problem sheet with a class of 10 students.
 
 The classes I have taught are:
 * September-December 2017, Computing in mathematics, Fortran 90 computer class
@@ -80,9 +80,9 @@ September 2014 - May 2017
 * Awards:
    * May 2017 – Duncan Prize (Applied Mathematics Senior Honours) for scoring the highest in fourth year applied modules.
    * May 2017 – Duncan Prize and Medal for the best final year Maths BSc dissertation.
-   * May 2017 – Fourth level BSc Mathematics medal for the highest scoring fourth year BSc maths student.
-   * May 2016 – Awarded a Cormack scholarship for summer research project.
-   * May 2016 – Third Level BSc Mathematics medal for the highest scoring third year BSc Maths student.
+   * May 2017 – Fourth level BSc Mathematics medal for the highest-scoring fourth year BSc maths student.
+   * May 2016 – Awarded a Cormack scholarship for a summer research project.
+   * May 2016 – Third Level BSc Mathematics medal for the highest-scoring third year BSc Maths student.
    * May 2015, 2016 & 2017 – Dean’s List award for students who average above 16.5/20 in all modules across the academic year.
 
 # Contact and social media<a name="contact"></a>

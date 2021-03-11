@@ -20,6 +20,11 @@ My research interests include:
 :-------------------------|:-------------------------
 **Fig. 1** This photo was taken from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/Solar_eclipse_1999_4_NR.jpg). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona Thompson scatters the white light it receives from the photosphere. |  **Fig. 2** Picture of me at the St Andrew's pier. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
+# Contact and social media<a name="contact"></a>
+
+If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.
+Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-25a450b3/), [Stack Exchange](https://stackexchange.com/users/12604491/peanutlex), [GitHub](https://github.com/aleksyprok) and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=KfrF2q8AAAAJ) accounts.
+
 # Publications <a name="publications"></a>
 
 * Prokopyszyn, A. P. K., A. W. Hood, A. N. Wright. Line-tied boundary conditions can cause resonant absorption models to generate unphysically large boundary layers (in review). 
@@ -84,8 +89,3 @@ September 2014 - May 2017
    * May 2016 – Awarded a Cormack scholarship for a summer research project.
    * May 2016 – Third Level BSc Mathematics medal for the highest-scoring third year BSc Maths student.
    * May 2015, 2016 & 2017 – Dean’s List award for students who average above 16.5/20 in all modules across the academic year.
-
-# Contact and social media<a name="contact"></a>
-
-If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.
-Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-25a450b3/), [Stack Exchange](https://stackexchange.com/users/12604491/peanutlex), [GitHub](https://github.com/aleksyprok) and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=KfrF2q8AAAAJ) accounts.

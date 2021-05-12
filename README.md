@@ -34,7 +34,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-2
 
 # Conferences and seminars <a name="conferences"></a>
 
-* April 7, 2021 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2020_seminar.pdf)
+* April 7, 2021 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2021_seminar.pdf)
 * April 20, 2020 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2020_seminar.pdf)
 * June/July 30-4, 2019 - National astronomy meeting, Lancaster, [presented poster.](https://aleksyprok.github.io/images/NAM_poster_2019.pdf)
 * June 10-14, 2019 - Coronal Loops Workshop, St Andrews, [contributed talk.](https://aleksyprok.github.io/images/LOOPS_talk_2019.pdf)

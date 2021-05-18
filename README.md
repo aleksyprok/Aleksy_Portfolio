@@ -1,10 +1,10 @@
 # Table of contents
 1. [About me](#about_me)
-2. [Publications](#publications)
-3. [Conferences](#conferences)
-4. [Teaching](#teaching)
-5. [Education](#education)
-6. [Contact and social media](#contact)
+2. [Contact and social media](#contact)
+3. [Publications](#publications)
+4. [Conferences](#conferences)
+5. [Teaching](#teaching)
+6. [Education](#education)
 
 # About me <a name="about_me"></a>
 

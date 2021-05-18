@@ -66,7 +66,16 @@ The classes I have taught are:
 
 # Education <a name="education"></a>
 
-## Unviversity of St Andrews, BSc Mathematics \
+## University of St Andrews, PhD Mathematics
+September 2017 – March 2021
+
+My PhD used computer simulations to model MHD waves in the solar corona, working with Prof Alan Hood, Prof Ineke De Moortel, Dr Andrew Wright and funded by STFC. The areas I worked in were:
+*	Developing and exploiting a Fortran 90 code called LaRe2D to model plasma in the solar atmosphere. Researchers have been developing the code across several universities since 2001. I used a supercomputer at the university to run my simulations and analysed the data using python and IDL. The work involved bug fixing and simulating nonlinear waves which led to my first published paper.
+* Using analytical techniques to rule out a proposed coronal heating mechanism called phase mixing. This work led to my second published paper.
+*	Creating my own 3D codes to model resonant absorption. The first code used a finite-difference technique. To improve the computational efficiency, I developed a new code that uses a combination of finite-difference, spectral method, and method of line techniques. This work led to my third paper, which is currently in preparation for publication.
+
+
+## Unviversity of St Andrews, BSc Mathematics
 September 2014 - May 2017
 * Awarded First Class with a grade point average (GPA) of 18.5/20 (a minimum of grade 16 is required for a first)
 * Honours Modules with grades (out of 20): 

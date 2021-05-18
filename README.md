@@ -38,7 +38,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-2
 ## University of St Andrews, Research fellow
 March  2021 – Present
 
-I am currently developing a code (called Hexa) to extrapolate the coronal magnetic field from solar magnetograms.
+I am currently developing a code (called [Hexa](https://github.com/aleksyprok/Hexa_apkp)) to extrapolate the coronal magnetic field from solar magnetograms.
 
 
 ## University of St Andrews, PhD Mathematics

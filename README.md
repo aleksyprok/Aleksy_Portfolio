@@ -32,6 +32,22 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-2
 * [Prokopyszyn, A. P. K. and A. W. Hood (2019, December). Investigating the damping rate of phase-mixed Alfvén waves. Astronomy & Astrophysics 632, A93.](https://www.aanda.org/articles/aa/abs/2019/12/aa36658-19/aa36658-19.html)
 * [Prokopyszyn, A. P. K., A. W. Hood, and I. De Moortel (2019, April). Phase mixing of nonlinear Alfvén waves. Astronomy & Astrophysics 624, A90.](https://www.aanda.org/articles/aa/abs/2019/04/aa34939-18/aa34939-18.html)
 
+# Research experience
+
+## University of St Andrews, Research fellow
+March  2021 – Present
+
+I am currently developing a code (called Hexa) to extrapolate the coronal magnetic field from solar magnetograms.
+
+
+## University of St Andrews, PhD Mathematics
+September 2017 – March 2021
+
+My PhD used computer simulations to model MHD waves in the solar corona, working with Prof Alan Hood, Prof Ineke De Moortel, Dr Andrew Wright and funded by STFC. The areas I worked in were:
+*	Developing and exploiting a Fortran 90 code called LaRe2D to model plasma in the solar atmosphere. Researchers have been developing the code across several universities since 2001. I used a supercomputer at the university to run my simulations and analysed the data using python and IDL. The work involved bug fixing and simulating nonlinear waves which led to my first published paper.
+* Using analytical techniques to rule out a proposed coronal heating mechanism called phase mixing. This work led to my second published paper.
+*	Creating my own 3D codes to model resonant absorption. The first code used a finite-difference technique. To improve the computational efficiency, I developed a new code that uses a combination of finite-difference, spectral method, and method of line techniques. This work led to my third paper, which is currently in preparation for publication.
+
 # Conferences and seminars <a name="conferences"></a>
 
 * April 22, 2021 - ESPOS, [virtual seminar](https://espos.stream/2021/04/22/Prokopyszyn/)
@@ -65,15 +81,6 @@ The classes I have taught are:
 * September-December 2020, Multivariate calculus, Python computer class
 
 # Education <a name="education"></a>
-
-## University of St Andrews, PhD Mathematics
-September 2017 – March 2021
-
-My PhD used computer simulations to model MHD waves in the solar corona, working with Prof Alan Hood, Prof Ineke De Moortel, Dr Andrew Wright and funded by STFC. The areas I worked in were:
-*	Developing and exploiting a Fortran 90 code called LaRe2D to model plasma in the solar atmosphere. Researchers have been developing the code across several universities since 2001. I used a supercomputer at the university to run my simulations and analysed the data using python and IDL. The work involved bug fixing and simulating nonlinear waves which led to my first published paper.
-* Using analytical techniques to rule out a proposed coronal heating mechanism called phase mixing. This work led to my second published paper.
-*	Creating my own 3D codes to model resonant absorption. The first code used a finite-difference technique. To improve the computational efficiency, I developed a new code that uses a combination of finite-difference, spectral method, and method of line techniques. This work led to my third paper, which is currently in preparation for publication.
-
 
 ## Unviversity of St Andrews, BSc Mathematics
 September 2014 - May 2017

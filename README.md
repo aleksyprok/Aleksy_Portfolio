@@ -1,10 +1,11 @@
 # Table of contents
 1. [About me](#about_me)
 2. [Contact and social media](#contact)
-3. [Publications](#publications)
-4. [Conferences](#conferences)
-5. [Teaching](#teaching)
-6. [Education](#education)
+3. [Research experience](#research_experience)
+4. [Publications](#publications)
+5. [Conferences](#conferences)
+6. [Teaching](#teaching)
+7. [Education](#education)
 
 # About me <a name="about_me"></a>
 
@@ -32,7 +33,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-2
 * [Prokopyszyn, A. P. K. and A. W. Hood (2019, December). Investigating the damping rate of phase-mixed Alfvén waves. Astronomy & Astrophysics 632, A93.](https://www.aanda.org/articles/aa/abs/2019/12/aa36658-19/aa36658-19.html)
 * [Prokopyszyn, A. P. K., A. W. Hood, and I. De Moortel (2019, April). Phase mixing of nonlinear Alfvén waves. Astronomy & Astrophysics 624, A90.](https://www.aanda.org/articles/aa/abs/2019/04/aa34939-18/aa34939-18.html)
 
-# Research experience
+# Research experience  <a name="research_experience"></a>
 
 ## University of St Andrews, Research fellow
 March  2021 – Present

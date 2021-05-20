@@ -37,7 +37,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-2
 
 ## Thesis
 
-* [Magnetohydrodynamic waves in the solar corona](https://github.com/aleksyprok/apkp_thesis/blob/main/apkp_thesis.pdf)
+* [Magnetohydrodynamic waves in the solar corona (in review)](https://github.com/aleksyprok/apkp_thesis/blob/main/apkp_thesis.pdf)
 
 # Research experience  <a name="research_experience"></a>
 

@@ -48,7 +48,7 @@ I am currently developing a code (called [Hexa](https://github.com/aleksyprok/He
 
 
 ## University of St Andrews, PhD Mathematics
-September 2017 – March 2021
+September 2017 – March 2021 (passed viva 2nd June 2021)
 
 My PhD used computer simulations to model MHD waves in the solar corona, working with Prof Alan Hood, Prof Ineke De Moortel, Dr Andrew Wright and funded by STFC. The areas I worked in were:
 *	Developing and exploiting a Fortran 90 code called [LaRe2D](https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/tda/larexd/) to model plasma in the solar atmosphere. Researchers have been developing the code across several universities since 2001. I used a supercomputer at the university to run my simulations and analysed the data using python and IDL. The work involved bug fixing and simulating nonlinear waves which led to [my first published paper](https://www.aanda.org/articles/aa/abs/2019/04/aa34939-18/aa34939-18.html).

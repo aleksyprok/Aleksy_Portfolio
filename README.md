@@ -31,7 +31,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-2
 
 ## Papers
 
-* [Prokopyszyn, A. P. K., A. W. Hood, A. N. Wright. Line-tied boundary conditions can cause resonant absorption models to generate unphysically large boundary layers (in prep).](https://arxiv.org/abs/2104.10497) 
+* [Prokopyszyn, A. P. K., A. W. Hood, A. N. Wright. Line-tied boundary conditions can cause resonant absorption models to generate unphysically large boundary layers.](https://iopscience.iop.org/article/10.3847/1538-4357/abf65b/meta?casa_token=_4BCewf5CQcAAAAA:h8xBBHoKk4wtOe4haXsiibzIgZ6XPQXBeLEBL45yuK49vxwYGjlKguG5QR2pQfuasZf_x2UdQZeO-g) 
 * [Prokopyszyn, A. P. K. and A. W. Hood (2019, December). Investigating the damping rate of phase-mixed Alfvén waves. Astronomy & Astrophysics 632, A93.](https://www.aanda.org/articles/aa/abs/2019/12/aa36658-19/aa36658-19.html)
 * [Prokopyszyn, A. P. K., A. W. Hood, and I. De Moortel (2019, April). Phase mixing of nonlinear Alfvén waves. Astronomy & Astrophysics 624, A90.](https://www.aanda.org/articles/aa/abs/2019/04/aa34939-18/aa34939-18.html)
 

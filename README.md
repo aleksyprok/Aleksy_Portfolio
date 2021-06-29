@@ -37,7 +37,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-2
 
 ## Thesis
 
-* [Magnetohydrodynamic waves in the solar corona (in review)](https://research-repository.st-andrews.ac.uk/handle/10023/23436)
+* [Magnetohydrodynamic waves in the solar corona](https://research-repository.st-andrews.ac.uk/handle/10023/23436)
 
 # Research experience  <a name="research_experience"></a>
 

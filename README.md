@@ -104,7 +104,8 @@ September 2014 - May 2017
    * Advanced Solar Theory 17.2
    * Asymptotic Methods 19.8
    * Linear and Nonlinear Waves 19.6
-   * Numerical Analysis 17.8, Classical Mechanics 19
+   * Numerical Analysis 17.8
+   * Classical Mechanics 19.0
    * Fluid Dynamics 17.5
    * Theory of Electric and Magnetic Fields 19.3
    * Final year dissertation 19.8 

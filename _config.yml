@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Alex Prokopyszyn"
+title: Alex Prokopyszyn
+description: foo
 github:
   is_project_page: false

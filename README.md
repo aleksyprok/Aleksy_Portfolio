@@ -25,7 +25,7 @@ My research interests include:
 # Contact and social media<a name="contact"></a>
 
 If you have any questions or suggestions, please feel free to email me at <alex.prokopyszyn@ukaea.uk>.
-Here are links to my [LinkedIn](https://www.linkedin.com/in/aleksy-prokopyszyn-25a450b3/), [Stack Exchange](https://stackexchange.com/users/12604491/peanutlex), [GitHub](https://github.com/aleksyprok) and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=KfrF2q8AAAAJ) accounts.
+Here are links to my [LinkedIn](https://www.linkedin.com/in/alexander-prokopyszyn-25a450b3/), [Stack Exchange](https://stackexchange.com/users/12604491/peanutlex), [GitHub](https://github.com/aleksyprok) and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=KfrF2q8AAAAJ) accounts.
 
 # Publications <a name="publications"></a>
 

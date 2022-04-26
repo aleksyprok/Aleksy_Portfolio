@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: Alex
 description: foo
 github:
-  is_project_page: false
+  is_project_page: true

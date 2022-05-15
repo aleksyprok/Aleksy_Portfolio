@@ -22,15 +22,15 @@ My research interests include:
 * [Coronal heating problem](https://en.wikipedia.org/wiki/Stellar_corona#Coronal_heating_problem). This problem relates to the question; "Why does the corona have a temperature of 10<sup>6</sup>&thinsp;K while the photosphere, which is closer to the centre of the Sun has a temperature of about 6000&thinsp;K?"
 * Designing code to solve the MHD equations using [finite difference](https://en.wikipedia.org/wiki/Finite_difference), [finite volume](https://en.wikipedia.org/wiki/Finite_volume_method), [spectral method](https://en.wikipedia.org/wiki/Spectral_method) and [method of lines](https://en.wikipedia.org/wiki/Method_of_lines) techniques.
 
-<div style="display: flex; flex-direction: row;">
-  <figure style="width: 50%;">
-    <img src="https://aleksyprok.github.io/images/eclipse_1999.png" alt="eclipse_1999" width="500">
+<div class="split">
+  <figure>
+    <img src="https://aleksyprok.github.io/images/eclipse_1999.png" alt="eclipse_1999" width="446" height="439">
     <figcaption>
       <strong>Fig. 1</strong> This photo was taken from [Wikipedia](https://en.wikipedia.org/wiki/Stellar_corona). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona is visible here due to it scattering white light from the photosphere.
     </figcaption>
   </figure>
-  <figure style="width: 50%;">
-    <img src="https://aleksyprok.github.io/images/aleksy_prok.jpg" alt="aleksy_prok" width="500">
+  <figure>
+    <img src="https://aleksyprok.github.io/images/aleksy_prok.jpg" alt="aleksy_prok" width="329" height="439">
     <figcaption>
       <strong>Fig. 2</strong> Picture of me at the St Andrew's pier.
     </figcaption>

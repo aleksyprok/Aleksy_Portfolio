@@ -26,7 +26,7 @@ My research interests include:
   <figure>
     <img src="https://aleksyprok.github.io/images/eclipse_1999.png" alt="eclipse_1999" width="446" height="439">
     <figcaption>
-      <strong>Fig. 1</strong> This photo was taken from [Wikipedia](https://en.wikipedia.org/wiki/Stellar_corona). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona is visible here due to it scattering white light from the photosphere.
+      <strong>Fig. 1</strong> This photo was taken from <a href="https://en.wikipedia.org/wiki/Stellar_corona">Wikipedia</a>. It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona is visible here due to it scattering white light from the photosphere.
     </figcaption>
   </figure>
   <figure>

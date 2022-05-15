@@ -6,11 +6,20 @@
 .split {
     display: flex;
     flex-direction: row;
+    gap: 1rem;
+
     @media (max-width: 768px) {
-        flex-direction: column; 
+        flex-direction: column;
     }
 
     figure {
         flex-basis: 50%;
+        margin: 0;
+        text-align: center;
+
+        img {
+            width: auto;
+            height: 400px;
+        }
     }
 }

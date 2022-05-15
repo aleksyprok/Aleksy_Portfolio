@@ -1,3 +1,6 @@
+---
+title: Home
+---
 
 ## Table of contents
 1. [About me](#about_me)
@@ -23,8 +26,9 @@ My research interests include:
   <figure style="width: 50%;">
     <img src="https://aleksyprok.github.io/images/eclipse_1999.png" alt="eclipse_1999" width="500">
     <figcaption>
-      <strong>Fig. 1</string> This photo was taken from [Wikipedia](https://en.wikipedia.org/wiki/Stellar_corona). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona is visible here due to it scattering white light from the photosphere.
-  </figcaption>
+      <strong>Fig. 1</strong> This photo was taken from [Wikipedia](https://en.wikipedia.org/wiki/Stellar_corona). It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona is visible here due to it scattering white light from the photosphere.
+    </figcaption>
+  </figure>
   <figure style="width: 50%;">
     <img src="https://aleksyprok.github.io/images/aleksy_prok.jpg" alt="aleksy_prok" width="500">
     <figcaption>

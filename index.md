@@ -61,7 +61,6 @@ March  2021 – Present
 
 I am currently developing a code (called [Hexa](https://github.com/aleksyprok/Hexa_apkp)) to extrapolate the coronal magnetic field from solar magnetograms.
 
-
 ### University of St Andrews, PhD Mathematics
 September 2017 – March 2021 (passed viva 2nd June 2021)
 

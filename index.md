@@ -71,7 +71,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/alexander-prokopyszy
 ### University of St Andrews, Research fellow
 March  2021 – September 2021
 
-I helped develop a Fortran code called [Hexa](https://github.com/aleksyprok/Hexa_apkp) to extrapolate the [solar coronal](https://en.wikipedia.org/wiki/Stellar_corona) magnetic field from [magnetograms](https://en.wikipedia.org/wiki/Solar_magnetogram). I imporved the accuracy of the code by modifying the algorithm used to make use of more data provided by the magnetograms. I helped imprve the efficency ofthe code by helping to parallelise it using [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface). 
+I helped develop a Fortran code called [Hexa](https://github.com/aleksyprok/Hexa_apkp) to extrapolate the [solar coronal](https://en.wikipedia.org/wiki/Stellar_corona) magnetic field from [magnetograms](https://en.wikipedia.org/wiki/Solar_magnetogram). I imporved the accuracy of the code by allowing it fully utilise more data provided by the magnetograms. I helped imprve the efficency of the code by helping to parallelise it using [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface). 
 
 
 ### University of St Andrews, PhD Mathematics

@@ -69,6 +69,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/alexander-prokopyszy
 ## Work/Research experience  <a name="research_experience"></a>
 
 ### Culham Centre for Fusion Energy, Fast Particle Modeller
+September 2021 - Present
 
 ### University of St Andrews, Research fellow
 March  2021 – September 2021

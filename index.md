@@ -25,7 +25,7 @@ My research interests include:
 Hi, I'm Alex. A plasma physicist. I use computer simulations to model plasma inside of [tokamaks](https://en.wikipedia.org/wiki/Tokamak). I work for the the [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority) at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/) in Oxfordshire. I am currently helping to design a fusion reactor called the [Spherical Tokamak for Energy Production](https://ccfe.ukaea.uk/research/step/#:~:text=The%20Spherical%20Tokamak%20for%20Energy%20Production%20%28STEP%29%20is,which%20has%20been%20under%20development%20since%20the%201980s.) which is a UK based nuclear fusion power plant which we aim to build by 2040.
 
 My research interests include:
-* GPU programming.
+* GPU programming, specifically CUDA Fortran.
 * Modelling fast ions inside tokamaks.
 * Estimating heat loads on tokmak walls using [kernel density estimates](https://en.wikipedia.org/wiki/Kernel_density_estimation) and other advanced statistical techniques.
 * Extrapolating the Sun's magnetic field based on [magnetograms](https://en.wikipedia.org/wiki/Magnetogram).

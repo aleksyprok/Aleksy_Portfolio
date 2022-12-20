@@ -84,6 +84,7 @@ My PhD used computer simulations to model MHD waves in the solar corona, working
 
 ## Conferences and seminars <a name="conferences"></a>
 
+* October/November 31-4, 2022 - ISTW, [contributed talk]
 * April 22, 2021 - ESPOS, [virtual seminar](https://espos.stream/2021/04/22/Prokopyszyn/)
 * April 7, 2021 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2021_seminar.pdf)
 * April 20, 2020 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2020_seminar.pdf)

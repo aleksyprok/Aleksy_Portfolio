@@ -13,14 +13,14 @@ title: Home
 
 ## About me <a name="about_me"></a>
 
-**Hi, I'm Alex. A solar physicist. I use computer simulations to model magnetohydrodynamic (MHD) waves in the Sun's atmosphere. More recently, I have been developing codes to extrapolate the coronal magnetic field from observed [solar magnetograms](https://en.wikipedia.org/wiki/Magnetogram).** I am a research fellow working with the [Solar and Magnetospheric Theory Group](http://www-solar.mcs.st-and.ac.uk/) in the [School of Mathematics and Statistics](https://www.st-andrews.ac.uk/mathematics-statistics/) at the [University of St Andrews](https://www.st-andrews.ac.uk/), Scotland. 
+<!-- **Hi, I'm Alex. A solar physicist. I use computer simulations to model magnetohydrodynamic (MHD) waves in the Sun's atmosphere. More recently, I have been developing codes to extrapolate the coronal magnetic field from observed [solar magnetograms](https://en.wikipedia.org/wiki/Magnetogram).** I am a research fellow working with the [Solar and Magnetospheric Theory Group](http://www-solar.mcs.st-and.ac.uk/) in the [School of Mathematics and Statistics](https://www.st-andrews.ac.uk/mathematics-statistics/) at the [University of St Andrews](https://www.st-andrews.ac.uk/), Scotland. 
 
 My research interests include:
 * Extrapolating the Sun's magnetic field based on [magnetograms](https://en.wikipedia.org/wiki/Magnetogram).
 * Coronal [MHD waves](https://en.wikipedia.org/wiki/Magnetohydrodynamics#Waves), where the corona refers to the outer layer of the solar atmosphere (see Figure 1).
 * [Coronal seismology](https://en.wikipedia.org/wiki/Coronal_seismology). This is a process where hard to measure quantities (e.g. magnetic field strength and plasma density) can be inferred from easier to measure quantities (e.g. wave period and damping time) using MHD wave theory.
 * [Coronal heating problem](https://en.wikipedia.org/wiki/Stellar_corona#Coronal_heating_problem). This problem relates to the question; "Why does the corona have a temperature of 10<sup>6</sup>&thinsp;K while the photosphere, which is closer to the centre of the Sun has a temperature of about 6000&thinsp;K?"
-* Designing code to solve the MHD equations using [finite difference](https://en.wikipedia.org/wiki/Finite_difference), [finite volume](https://en.wikipedia.org/wiki/Finite_volume_method), [spectral method](https://en.wikipedia.org/wiki/Spectral_method) and [method of lines](https://en.wikipedia.org/wiki/Method_of_lines) techniques.
+* Designing code to solve the MHD equations using [finite difference](https://en.wikipedia.org/wiki/Finite_difference), [finite volume](https://en.wikipedia.org/wiki/Finite_volume_method), [spectral method](https://en.wikipedia.org/wiki/Spectral_method) and [method of lines](https://en.wikipedia.org/wiki/Method_of_lines) techniques. -->
 
 <div class="split">
   <figure>

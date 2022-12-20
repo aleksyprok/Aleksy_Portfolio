@@ -27,7 +27,7 @@ Hi, I'm Alex. A plasma physicist. I use computer simulations to model plasma ins
 My research interests include:
 * GPU programming, specifically [CUDA Fortran](https://developer.nvidia.com/cuda-fortran).
 * Modelling fast ions inside tokamaks.
-* Estimating heat loads on tokmak walls using [kernel density estimates](https://en.wikipedia.org/wiki/Kernel_density_estimation) and other advanced statistical techniques.
+* Estimating heat loads on tokamak walls using [kernel density estimates](https://en.wikipedia.org/wiki/Kernel_density_estimation) and other advanced statistical techniques.
 * Extrapolating the Sun's magnetic field based on [magnetograms](https://en.wikipedia.org/wiki/Magnetogram).
 * Coronal [MHD waves](https://en.wikipedia.org/wiki/Magnetohydrodynamics#Waves), where the corona refers to the outer layer of the solar atmosphere (see Figure 1).
 * [Coronal seismology](https://en.wikipedia.org/wiki/Coronal_seismology). This is a process where hard to measure quantities (e.g. magnetic field strength and plasma density) can be inferred from easier to measure quantities (e.g. wave period and damping time) using MHD wave theory.

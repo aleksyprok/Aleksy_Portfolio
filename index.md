@@ -73,8 +73,7 @@ September 2021 - Present
 
 *	Helping to design a nuclear fusion reactor called [STEP (Spherical Tokamak for Energy Production)](https://ccfe.ukaea.uk/research/step/#:~:text=The%20Spherical%20Tokamak%20for%20Energy%20Production%20%28STEP%29%20is,which%20has%20been%20under%20development%20since%20the%201980s.), where the goal is to build a Nuclear Reactor which puts clean energy onto the national grid by 2040.
 *	Using and developing a [CUDA-Fortan](https://developer.nvidia.com/cuda-fortran) monte-carlo code called the [Lorentz Orbit Code for Use in Stellerators and Tokamaks (LOCUST)](https://iopscience.iop.org/article/10.1088/1741-4326/ac108c/meta) to model particles in the reactor.
-*	Implementing advanced statistical techniques to improve the accuracy of the code. For example, implementing a KDE (Kernel Density Estimate) method with a leave-one-out cross-validation bandwidth selector, to estimate the probability density function for where fast particles hit the reactor wall.
-*	Presenting work at conferences, for example, the European Solar Physics Online Seminar Series (see my website for the complete list with details). This has enabled my research to be shared with experts resulting in 21 citations so far.
+*	Implementing advanced statistical techniques to improve the accuracy of the code. For example, implementing a [KDE (Kernel Density Estimate)](https://en.wikipedia.org/wiki/Multivariate_kernel_density_estimation#:~:text=Kernel%20density%20estimation%20is%20a%20nonparametric%20technique%20for,introduced%20in%20the%20scientific%20literature%20for%20univariate%20da) method with a [leave-one-out cross-validation bandwidth selector](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Leave-one-out_cross-validation), to estimate the heat load distribution for the fast particles hitting hte walls of the reactor.
 
 
 ### University of St Andrews, Research fellow

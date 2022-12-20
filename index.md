@@ -5,7 +5,7 @@ title: Home
 ## Table of contents
 1. [About me](#about_me)
 2. [Contact and social media](#contact)
-3. [Research experience](#research_experience)
+3. [Work/Research experience](#research_experience)
 4. [Publications](#publications)
 5. [Conferences](#conferences)
 6. [Teaching](#teaching)

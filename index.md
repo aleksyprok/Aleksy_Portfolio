@@ -66,7 +66,7 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/alexander-prokopyszy
 
 * [Magnetohydrodynamic waves in the solar corona](https://research-repository.st-andrews.ac.uk/handle/10023/23436)
 
-## Research experience  <a name="research_experience"></a>
+## Work/Research experience  <a name="research_experience"></a>
 
 ### University of St Andrews, Research fellow
 March  2021 – Present

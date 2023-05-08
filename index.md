@@ -20,7 +20,8 @@ My research interests include:
 * Coronal [MHD waves](https://en.wikipedia.org/wiki/Magnetohydrodynamics#Waves), where the corona refers to the outer layer of the solar atmosphere (see Figure 1).
 * [Coronal seismology](https://en.wikipedia.org/wiki/Coronal_seismology). This is a process where hard to measure quantities (e.g. magnetic field strength and plasma density) can be inferred from easier to measure quantities (e.g. wave period and damping time) using MHD wave theory.
 * [Coronal heating problem](https://en.wikipedia.org/wiki/Stellar_corona#Coronal_heating_problem). This problem relates to the question; "Why does the corona have a temperature of 10<sup>6</sup>&thinsp;K while the photosphere, which is closer to the centre of the Sun has a temperature of about 6000&thinsp;K?"
-* Designing code to solve the MHD equations using [finite difference](https://en.wikipedia.org/wiki/Finite_difference), [finite volume](https://en.wikipedia.org/wiki/Finite_volume_method), [spectral method](https://en.wikipedia.org/wiki/Spectral_method) and [method of lines](https://en.wikipedia.org/wiki/Method_of_lines) techniques. -->
+* Designing code to solve the MHD equations using [finite difference](https://en.wikipedia.org/wiki/Finite_difference), [finite volume](https://en.wikipedia.org/wiki/Finite_volu
+method), [spectral method](https://en.wikipedia.org/wiki/Spectral_method) and [method of lines](https://en.wikipedia.org/wiki/Method_of_lines) techniques. -->
 
 **Hi, I'm Alex. A plasma physicist. I use computer simulations to model plasma inside of [tokamaks](https://en.wikipedia.org/wiki/Tokamak).** I work for the the [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority) at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/) in Oxfordshire. I am currently helping to design a fusion reactor called the [Spherical Tokamak for Energy Production](https://ccfe.ukaea.uk/research/step/#:~:text=The%20Spherical%20Tokamak%20for%20Energy%20Production%20%28STEP%29%20is,which%20has%20been%20under%20development%20since%20the%201980s.) which is a UK based nuclear fusion power plant which we aim to build by 2040.
 
@@ -36,7 +37,7 @@ My research interests include:
 
 <div class="split">
   <figure>
-    <img src="https://aleksyprok.github.io/images/me_next_to_tokamak.png" alt="eclipse_1999" width="370" height="462">
+    <img src="https://aleksyprok.github.io/images/me_next_to_tokamak.png" alt="me_next_to_tokamak" width="370" height="462">
     <figcaption>
       <strong>Fig. 1</strong> This photo was taken from <a href="https://en.wikipedia.org/wiki/Stellar_corona">Wikipedia</a>. It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona is visible here due to it scattering white light from the photosphere.
     </figcaption>

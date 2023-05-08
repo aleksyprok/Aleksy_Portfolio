@@ -39,7 +39,7 @@ My research interests include:
   <figure>
     <img src="https://aleksyprok.github.io/images/me_next_to_tokamak.jpg" alt="me_next_to_tokamak" width="370" height="462">
     <figcaption>
-      <strong>Fig. 1</strong> This photo was taken from <a href="https://en.wikipedia.org/wiki/Stellar_corona">Wikipedia</a>. It was taken in France during the 1999 solar eclipse. It shows the solar atmosphere. The chromosphere radiates a pink light. The corona is visible here due to it scattering white light from the photosphere.
+      <strong>Fig. 1</strong> Picture of me next to a tokamak at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
     </figcaption>
   </figure>
   <figure>

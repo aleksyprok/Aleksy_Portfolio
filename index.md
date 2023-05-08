@@ -45,7 +45,7 @@ My research interests include:
   <figure>
     <img src="https://aleksyprok.github.io/images/aleksy_prok.jpg" alt="aleksy_prok" width="329" height="439">
     <figcaption>
-      <strong>Fig. 2</strong> Picture of me at the St Andrew's pier.
+      <strong>Fig. 2</strong> Picture of me at the St Andrews pier.
     </figcaption>
   </figure>
 </div>
